@@ -1,0 +1,234 @@
+{
+    "response": [
+        {
+            "collectionStatus": "Managed",
+            "connectedInterfaceName": [
+                "GigabitEthernet0/0/0",
+                "GigabitEthernet0",
+                "FastEthernet0",
+                "FastEthernet0",
+                "FastEthernet0"
+            ],
+            "connectedNetworkDeviceIpAddress": [
+                "192.168.1.1",
+                "192.168.1.254",
+                "192.168.1.253",
+                "192.168.1.3",
+                "192.168.1.4"
+            ],
+            "connectedNetworkDeviceName": [
+                "R1",
+                "NetworkController",
+                "Server0",
+                "A",
+                "B"
+            ],
+            "errorDescription": "",
+            "globalCredentialId": "f06ff143-04ec-4c40-a378-4e7d39da55b2",
+            "hostname": "S1",
+            "id": "CAT1010X5HL-uuid",
+            "interfaceCount": "29",
+            "inventoryStatusDetail": "Managed",
+            "lastUpdateTime": "13",
+            "lastUpdated": "2022-07-03 21:42:21",
+            "macAddress": "0006.2A74.7D4C",
+            "managementIpAddress": "192.168.1.2",
+            "platformId": "3650",
+            "productId": "3650-24PS",
+            "reachabilityFailureReason": "",
+            "reachabilityStatus": "Reachable",
+            "serialNumber": "CAT1010X5HL-",
+            "softwareVersion": "16.3.2",
+            "type": "MultiLayerSwitch",
+            "upTime": "1 days, 3 hours, 50 minutes, 56 seconds"
+        },
+        {
+            "collectionStatus": "Managed",
+            "connectedInterfaceName": [
+                "GigabitEthernet1/0/1",
+                "Serial0/1/0"
+            ],
+            "connectedNetworkDeviceIpAddress": [
+                "192.168.1.2",
+                "192.168.0.2"
+            ],
+            "connectedNetworkDeviceName": [
+                "S1",
+                "R2"
+            ],
+            "errorDescription": "",
+            "globalCredentialId": "f06ff143-04ec-4c40-a378-4e7d39da55b2",
+            "hostname": "R1",
+            "id": "FDO1302CR7M-uuid",
+            "interfaceCount": "6",
+            "inventoryStatusDetail": "Managed",
+            "ipAddresses": [
+                "192.168.1.1",
+                "192.168.0.1"
+            ],
+            "lastUpdateTime": "13",
+            "lastUpdated": "2022-07-03 21:42:21",
+            "macAddress": "0001.649B.02E1",
+            "managementIpAddress": "192.168.0.1",
+            "platformId": "ISR4300",
+            "productId": "ISR4331",
+            "reachabilityFailureReason": "",
+            "reachabilityStatus": "Reachable",
+            "serialNumber": "FDO1302CR7M-",
+            "softwareVersion": "15.4",
+            "type": "Router",
+            "upTime": "1 days, 3 hours, 50 minutes, 56 seconds"
+        },
+        {
+            "collectionStatus": "Managed",
+            "connectedInterfaceName": [
+                "GigabitEthernet1/0/1",
+                "Serial0/1/0",
+                "Serial0/1/1"
+            ],
+            "connectedNetworkDeviceIpAddress": [
+                "192.168.2.2",
+                "192.168.0.1",
+                "192.168.0.6"
+            ],
+            "connectedNetworkDeviceName": [
+                "S2",
+                "R1",
+                "R3"
+            ],
+            "errorDescription": "",
+            "globalCredentialId": "f06ff143-04ec-4c40-a378-4e7d39da55b2",
+            "hostname": "R2",
+            "id": "FDO13026L0S-uuid",
+            "interfaceCount": "6",
+            "inventoryStatusDetail": "Managed",
+            "ipAddresses": [
+                "192.168.2.1",
+                "192.168.0.2",
+                "192.168.0.5"
+            ],
+            "lastUpdateTime": "13",
+            "lastUpdated": "2022-07-03 21:42:21",
+            "macAddress": "0001.977A.50B5",
+            "managementIpAddress": "192.168.0.5",
+            "platformId": "ISR4300",
+            "productId": "ISR4331",
+            "reachabilityFailureReason": "",
+            "reachabilityStatus": "Reachable",
+            "serialNumber": "FDO13026L0S-",
+            "softwareVersion": "15.4",
+            "type": "Router",
+            "upTime": "1 days, 3 hours, 50 minutes, 56 seconds"
+        },
+        {
+            "collectionStatus": "Managed",
+            "connectedInterfaceName": [
+                "GigabitEthernet1/0/1",
+                "Serial0/1/1"
+            ],
+            "connectedNetworkDeviceIpAddress": [
+                "192.168.3.2",
+                "192.168.0.5"
+            ],
+            "connectedNetworkDeviceName": [
+                "S3",
+                "R2"
+            ],
+            "errorDescription": "",
+            "globalCredentialId": "f06ff143-04ec-4c40-a378-4e7d39da55b2",
+            "hostname": "R3",
+            "id": "FDO1302Z8G6-uuid",
+            "interfaceCount": "6",
+            "inventoryStatusDetail": "Managed",
+            "ipAddresses": [
+                "192.168.3.1",
+                "192.168.0.6"
+            ],
+            "lastUpdateTime": "13",
+            "lastUpdated": "2022-07-03 21:42:21",
+            "macAddress": "0030.A3DD.D0BB",
+            "managementIpAddress": "192.168.0.6",
+            "platformId": "ISR4300",
+            "productId": "ISR4331",
+            "reachabilityFailureReason": "",
+            "reachabilityStatus": "Reachable",
+            "serialNumber": "FDO1302Z8G6-",
+            "softwareVersion": "15.4",
+            "type": "Router",
+            "upTime": "1 days, 3 hours, 50 minutes, 56 seconds"
+        },
+        {
+            "collectionStatus": "Managed",
+            "connectedInterfaceName": [
+                "GigabitEthernet0/0/0",
+                "FastEthernet0",
+                "FastEthernet0"
+            ],
+            "connectedNetworkDeviceIpAddress": [
+                "192.168.2.1",
+                "192.168.2.3",
+                "192.168.2.4"
+            ],
+            "connectedNetworkDeviceName": [
+                "R2",
+                "C",
+                "D"
+            ],
+            "errorDescription": "",
+            "globalCredentialId": "f06ff143-04ec-4c40-a378-4e7d39da55b2",
+            "hostname": "S2",
+            "id": "CAT1010VG3M-uuid",
+            "interfaceCount": "29",
+            "inventoryStatusDetail": "Managed",
+            "lastUpdateTime": "13",
+            "lastUpdated": "2022-07-03 21:42:21",
+            "macAddress": "000C.CFC4.2836",
+            "managementIpAddress": "192.168.2.2",
+            "platformId": "3650",
+            "productId": "3650-24PS",
+            "reachabilityFailureReason": "",
+            "reachabilityStatus": "Reachable",
+            "serialNumber": "CAT1010VG3M-",
+            "softwareVersion": "16.3.2",
+            "type": "MultiLayerSwitch",
+            "upTime": "1 days, 3 hours, 50 minutes, 56 seconds"
+        },
+        {
+            "collectionStatus": "Managed",
+            "connectedInterfaceName": [
+                "GigabitEthernet0/0/0",
+                "FastEthernet0",
+                "FastEthernet0"
+            ],
+            "connectedNetworkDeviceIpAddress": [
+                "192.168.3.1",
+                "192.168.3.3",
+                "192.168.3.4"
+            ],
+            "connectedNetworkDeviceName": [
+                "R3",
+                "E",
+                "F"
+            ],
+            "errorDescription": "",
+            "globalCredentialId": "f06ff143-04ec-4c40-a378-4e7d39da55b2",
+            "hostname": "S3",
+            "id": "CAT10108PXN-uuid",
+            "interfaceCount": "29",
+            "inventoryStatusDetail": "Managed",
+            "lastUpdateTime": "13",
+            "lastUpdated": "2022-07-03 21:42:21",
+            "macAddress": "00D0.FFA3.A8B6",
+            "managementIpAddress": "192.168.3.2",
+            "platformId": "3650",
+            "productId": "3650-24PS",
+            "reachabilityFailureReason": "",
+            "reachabilityStatus": "Reachable",
+            "serialNumber": "CAT10108PXN-",
+            "softwareVersion": "16.3.2",
+            "type": "MultiLayerSwitch",
+            "upTime": "1 days, 3 hours, 50 minutes, 56 seconds"
+        }
+    ],
+    "version": "1.0"
+}
